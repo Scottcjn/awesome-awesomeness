@@ -99,6 +99,7 @@ A curated list of amazingly awesome awesomeness.
 	- Accessibility
 		- [by @a11yproject](https://github.com/a11yproject/a11yproject.com)
 		- [by @brunopulis](https://github.com/brunopulis/awesome-a11y)
+	- [Agents](https://github.com/Scottcjn/awesome-agents#readme) - AI agent platforms, frameworks, protocols, tools, and resources.
 	- [Agile](https://github.com/lorabv/awesome-agile)
 	- [Algolia](https://github.com/algolia/awesome-algolia)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
