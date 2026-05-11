@@ -9,7 +9,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
-	- [C](https://notabug.org/koz.ross/awesome-c)
+	- [C](https://github.com/inputsh/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [CMake](https://github.com/onqtam/awesome-cmake)
 	- Clojure
