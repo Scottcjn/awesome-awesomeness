@@ -43,7 +43,7 @@ You'll need a [GitHub account](https://github.com/join)!
 3. Now click on the edit icon. ![Step 3 - Click on Edit](http://i.imgur.com/oEgWdc5.png)
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](http://i.imgur.com/nGtERxd.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!![Step 6 - Submit pull](http://i.imgur.com/0OW5V7a.png)
+6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)! ![Step 6 - Submit pull](http://i.imgur.com/0OW5V7a.png)
 
 ## Updating your Pull Request
 
