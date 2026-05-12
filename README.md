@@ -107,7 +107,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
-		- [Android Apps](https://github.com/LinuxCafeFederation/awesome-android)
 		- [Android Release Notes](https://github.com/pedronveloso/awesome-android-release-notes)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
@@ -169,7 +168,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Conversational UI](https://github.com/mortenjust/awesome-conversational/)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Courses](https://github.com/prakhar1989/awesome-courses)
-	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
 	- Cryptography
 		- [by @MaciejCzyzewski](https://github.com/MaciejCzyzewski/retter)
 		- [by @sobolevn](https://github.com/sobolevn/awesome-cryptography)
@@ -258,7 +256,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Kafka](https://github.com/monksy/awesome-kafka)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- [Laravel](https://github.com/chiraggude/awesome-laravel)
-	- [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 	- [Lego](https://github.com/adius/awesome-lego)
 	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
